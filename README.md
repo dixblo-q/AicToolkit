@@ -15,5 +15,7 @@ Projenin çalışması için gerekli kütüphaneleri otomatik kurmak için:
 ```bash
 git clone https://github.com/dixblo-q/AicToolkit
 cd AicToolkit
-python install.py
+python setup.py
+python akrepsunar.py
+
 
