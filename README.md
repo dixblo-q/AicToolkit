@@ -8,6 +8,10 @@ Bu tool, Termux ve Linux sistemleri için geliştirilmiş gelişmiş bir penetra
 - **IP Geolocation & Reverse IP**
 - **XSS & SQLi Vulnerability Scanner**
 - **Dork Search & Shell Checker**
+- **Phone Number OSINT**
+- **Port Scanner**
+- **Header Checker**
+**VE ÇOK DAHA FAZLASI BU TOOL'DA MEVCUT**
 
 ## 🛠️ Kurulum
 Projenin çalışması için gerekli kütüphaneleri otomatik kurmak için:
